@@ -11,7 +11,7 @@
 - multihit_enhancer_identification.R: over-representation of genes with multiple noncoding DNVs in prioritized enhancers
 - heartenn_burden.R: burden of high-scoring HeartENN variants in cases vs controls
 
-**Implementation:** Please note that this repository is intended as a means of providing code review, and the encolsed scripts may require additional, local dependencies. More extensive custom scripts and pipelines are available from the authors on request.
+**Implementation:** Please note that this repository is intended as a means of providing code review, and the encolsed scripts may require additional local dependencies. More extensive custom scripts and pipelines are available from the authors on request.
 
 **Relevant data:** Supplemental data can be found in supplementary_tables_chd_wgs.xlsx
 
