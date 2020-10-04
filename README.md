@@ -4,7 +4,7 @@
 
 **DNV identification:** source code is available at https://github.com/frichter/dnv_pipeline (GATK preprocessing and FreeBayes) and https://github.com/ShenLab/igv-classifier (for IGV-driven neural network methods).
 
-**HeartENN:** The HeartENN models repository is available at [HeartENN_models.tar.gz](https://www.dropbox.com/s/rerhx0sdc6y8r6v/HeartENN_models.tar.gz?dl=0) (Dropbox link, 865 Mb). You can refer to the README in the models repository for instructions to download the model weights and published variant effect predictions. We are in the process of finalizing this repository; in the meantime, please reach out to kc31@princeton.edu for more information on how to run these models. 
+**HeartENN:** Please refer to the documentation in our new [HeartENN-models](https://github.com/FunctionLab/HeartENN-models) repository. Note that HeartENN-models is currently a work-in-progress; we are still building out the scripts and documentation to make HeartENN easier to run. In the meantime, please reach out to kc31@princeton.edu for more information.  
 
 **Burden tests:** Scripts used for key steps in WGS de novo variant burden tests are included in this repository.
 - RBP_burden_analysis.R: burden of variants in post-transcriptional regulatory regions
